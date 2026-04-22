@@ -1,3 +1,5 @@
+### DBT Core with AWS as my Data Lake and Snowflake as my Warehouse
+
 This is the project where I learned how to work with AWS S3 as my data lake, snowflake as my data warehouse and set up my own dbt core project to do my data transformations. 
 
 I have been using dbt cloud at work. In our company, each team's data analyst takes ownership of the team's semantic layer. But I wanted to build my own dbt core project and get comfortable with it. 
